@@ -8,6 +8,3 @@ Input Files:
 4) "t2MRT_SDTstyle.csv" - Mental Rotation Task, spatial dimensionality test (SDT)-style score. Rows = participants, col = score.
 
 5) "t2Demo.csv" - liscence variable (0= no, 1= yes, 2= permit)
-
-
-5) 
